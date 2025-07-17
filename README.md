@@ -1,4 +1,4 @@
-# 📌 Consumer Complaint Classification with Naive Bayes
+# Consumer Complaint Classification with Naive Bayes
 
 This project focuses on building a **multi-class text classification model** using **Naive Bayes** to automatically categorize consumer complaints into predefined product-related classes. It utilizes a large-scale dataset of complaints submitted to the Consumer Financial Protection Bureau (CFPB).
 
